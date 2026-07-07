@@ -251,6 +251,6 @@ professional frontend practices faster and more accessible.
 
 ◈◇◈◇◈╪▬▬ι═══════════➤
 
-Built by [Akram Almnajed](https://github.com/AkramAlmnajed)
+Killed by [Akram Almnajed](https://github.com/AkramAlmnajed)
 
 </div>
