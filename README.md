@@ -233,7 +233,7 @@ points at `dist/cli.js`.
 
 Released under the [MIT License](LICENSE) — © 2026 Akram Almnajed.
 
-## About the Author
+## About the Author & Contact
 
 Kirigami is designed, built, and maintained by **Akram Almnajed** — a frontend
 developer based in Damascus, Syria, specializing in React.js, Next.js,
@@ -244,16 +244,6 @@ professional frontend practices faster and more accessible.
 - GitHub: [github.com/AkramAlmnajed](https://github.com/AkramAlmnajed)
 - Portfolio: [akramalmnajed.github.io/Akram-Portfolio](https://akramalmnajed.github.io/Akram-Portfolio)
 - LinkedIn: [linkedin.com/in/akram-almnajed-5a06801a6](https://www.linkedin.com/in/akram-almnajed-5a06801a6/)
-
-## Contact
-
-Open to freelance projects, collaboration, and full-time frontend work.
-
-- GitHub: [github.com/AkramAlmnajed](https://github.com/AkramAlmnajed)
-- Portfolio: [akramalmnajed.github.io/Akram-Portfolio](https://akramalmnajed.github.io/Akram-Portfolio)
-- LinkedIn: [linkedin.com/in/akram-almnajed-5a06801a6](https://www.linkedin.com/in/akram-almnajed-5a06801a6/)
-
-<!-- Email: -->
 
 ---
 
