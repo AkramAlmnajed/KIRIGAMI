@@ -235,7 +235,7 @@ Released under the [MIT License](LICENSE) — © 2026 Akram Almnajed.
 
 ## About the Author & Contact
 
-Kirigami is designed, built, and maintained by **Akram Almnajed** — a frontend
+Kirigami is designed, built, and maintained by **Akram Almnajed** — a FullStack
 developer based in Damascus, Syria, specializing in React.js, Next.js,
 TypeScript, and Tailwind CSS, with a focus on Feature-Sliced Design and
 scalable frontend architecture. He builds developer tooling to make
@@ -243,7 +243,7 @@ professional frontend practices faster and more accessible.
 
 - GitHub: [github.com/AkramAlmnajed](https://github.com/AkramAlmnajed)
 - Portfolio: [akramalmnajed.github.io/Akram-Portfolio](https://akramalmnajed.github.io/Akram-Portfolio)
-- LinkedIn: [linkedin.com/in/akram-almnajed-5a06801a6](https://www.linkedin.com/in/akram-almnajed-5a06801a6/)
+- LinkedIn: [linkedin.com/in/akram-almnajed](https://www.linkedin.com/in/akram-almnajed)
 
 ---
 
